@@ -1,0 +1,11 @@
+version: '3.9'
+services:
+  php-env:
+    build:
+      context: .  
+      dockerfile: Dockerfile 
+    volumes:
+      - ./app:/var/www/html
+      - ./lib:/var/www/lib
+    ports:
+      - 9000:80
