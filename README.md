@@ -5,8 +5,14 @@ style="display: block; margin: 0 auto"/>
 
 ### A charts collection based on [OpenEBench](https://openebench.bsc.es/) Application
 
+####  :point_right: You can see the complete documentation [here](https://inab.github.io/oeb-widgets-graphs/)
+
 ## DEMO CASES
 
-## Documentation 
+This is a demo case how to use  
+[oeb-widgets-graphs](https://github.com/inab/oeb-widgets-graphs)
 
-####  :point_right: You can see the complete documentation [here](https://inab.github.io/oeb-widgets-graphs/)
+- Javascript + HTML -> CDN_javascript_html
+
+- PHP
+- React
